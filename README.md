@@ -17,7 +17,6 @@ From **S3 buckets → EKS clusters**, I’ve probably broken it… and fixed it 
 ## 🔗 Where to Find Me  
 
 - 🌐 [KnowMe](https://harish8.com) → *Where I pretend AWS never sends me surprise bills*  
-- 📘 [DevBook](https://devbook.harish8.com) → *It’s like StackOverflow, but with less judgment and more ctrl+c/ctrl+v*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/harish-s-553840368) → *Basically Facebook, but I wear a tie 🕴️*  
 - 🎮 [Discord](https://discordapp.com/users/1341650829115002911) → *Where I definitely don’t spend 8hrs/day debugging memes*  
 

@@ -14,11 +14,12 @@ From **S3 buckets → EKS clusters**, I’ve probably broken it… and fixed it 
 
 ---
 
-## 🔗 My Links  
-- 🌐 Website: [harish](https://harish8.com)  
-- 📘 DevBook: [devbook](https://devbook.harish8.com)  
-- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/harish-s-553840368)  
-- 🎮 Discord: [Discord](https://discordapp.com/users/1341650829115002911)  
+## 🔗 Where to Find Me  
+
+- 🌐 Website: [Harish](https://harish8.com) → *My corner of the internet, where I pretend to be professional*  
+- 📘 DevBook: [devBook](https://devbook.harish8.com) → *Basically StackOverflow, but I ctrl+c’d it first*  
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/harish-s-553840368) → *Come endorse me for “Googling skills” pls*  
+- 🎮 Discord: [Discord](https://discordapp.com/users/1341650829115002911) → *Where I definitely don’t spend 8hrs/day debugging memes*  
 
 ---
 

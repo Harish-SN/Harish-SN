@@ -15,10 +15,10 @@ From **S3 buckets → EKS clusters**, I’ve probably broken it… and fixed it 
 ---
 
 ## 🔗 My Links  
-- 🌐 Website: [harish8.com](https://harish8.com)  
-- 📘 DevBook: [devbook.harish8.com](https://devbook.harish8.com)  
-- 💼 LinkedIn: [linkedin.com/in/harish-s-553840368](https://www.linkedin.com/in/harish-s-553840368)  
-- 🎮 Discord: [Harish on Discord](https://discordapp.com/users/1341650829115002911)  
+- 🌐 Website: [harish](https://harish8.com)  
+- 📘 DevBook: [devbook](https://devbook.harish8.com)  
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/harish-s-553840368)  
+- 🎮 Discord: [Discord](https://discordapp.com/users/1341650829115002911)  
 
 ---
 

@@ -5,6 +5,10 @@ AWS certified, building and running cloud systems that scale, heal, and stay bor
 
 ### 📊 GitHub Stats
 
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-SN&theme=tokyonight)
+
+![Commits by Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-SN&theme=tokyonight)
+
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harish-SN&theme=tokyonight&utcOffset=5.5)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=tokyonight&hide_border=true)

@@ -1,7 +1,7 @@
 # Hi, I'm Harish 👋
 
 Cloud / DevOps ☁️  
-AWS Professional certified, building and running cloud systems that scale, heal, and stay boring in production.
+AWS certified, building and running cloud systems that scale, heal, and stay boring in production.
 
 ---
 

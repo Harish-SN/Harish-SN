@@ -18,17 +18,25 @@ GitHub says I:
 ---
 
 ### 🧭 Rules
-- Manual → automate
-- Slow → cache
-- Working → don’t touch
+- Manual → automate  
+- Slow → cache  
+- Working → don’t touch  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=tokyonight&hide_border=true)
+
+---
+
+### 🐍 Contributions
+
+![Snake animation](https://github.com/Harish-SN/Harish-SN/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

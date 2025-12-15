@@ -21,13 +21,13 @@ Portfolio
 https://harish8.com
 
 LinkedIn  
-linkedin.com/in/harish-s-553840368
+https://linkedin.com/in/harish-s-553840368
 
 Gumroad  
-flyingbunny8.gumroad.com
+https://flyingbunny8.gumroad.com
 
 Discord  
-discord.com/users/1341650829115002911
+https://discord.com/users/1341650829115002911
 
 Xambook  
 https://xambook.com

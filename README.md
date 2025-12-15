@@ -9,21 +9,6 @@ GitHub says I:
 
 ---
 
-### 🧠 Repo vibes
-- Side projects that escalated
-- Serious projects that began as experiments
-- YAML files with opinions
-- Docker containers living “temporarily”
-
----
-
-### 🧭 Rules
-- Manual → automate  
-- Slow → cache  
-- Working → don’t touch  
-
----
-
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=tokyonight&hide_border=true)

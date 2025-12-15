@@ -5,7 +5,7 @@ AWS certified, building and running cloud systems that scale, heal, and stay bor
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=tokyonight&hide_border=true)
 

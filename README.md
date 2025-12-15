@@ -1,29 +1,34 @@
 # Hi, I'm Harish 👋
 
-☁️ Cloud / DevOps • AWS Pro  
-I build infra that **doesn’t wake people up at 3AM**.
+Cloud / DevOps ☁️  
+GitHub says I:
+- Use **multiple programming languages**
+- Write more configs than actual code
+- Trust automation more than sleep
+- Commit mostly when something breaks
 
 ---
 
-### ⚡ What I do
-- Ship AWS-native apps
-- Automate boring things
-- Break → fix → document
-- Linux enjoyer 🐧
+### 🧠 Repo vibes
+- Side projects that got serious
+- Serious projects that started as side projects
+- YAML files with personality
+- Docker things running “temporarily”
 
 ---
 
-### 🛠️ Tools I like
-**Cloud:** `EC2` `VPC` `Lambda` `S3` `DynamoDB` `CloudFront`  
-**DevOps:** `Docker` `CI/CD` `CloudFormation` `CDK`  
-**Runtime:** `Node.js` `Python`  
-**Linux:** `Ubuntu` `Arch` `Fedora`
+### 🧭 Rules I follow
+- If it’s manual → automate it
+- If it’s slow → cache it
+- If it works → don’t touch it
 
 ---
 
-### 🚀 Stuff
-- 🔗 https://xambook.com
-- 🌐 https://harish8.com
+### 🌐 Find me
+- 💼 LinkedIn → https://www.linkedin.com/in/harish-s-553840368/
+- 🛒 Gumroad → https://flyingbunny8.gumroad.com/
+- 💬 Discord → https://discordapp.com/users/1341650829115002911
+- 🚀 Xambook → https://xambook.com
+- 🌍 Portfolio → https://harish8.com
 
-> Infrastructure should be boring.  
-> If it’s exciting, it’s broken.
+> My GitHub is mostly experiments, fixes, and “why did this work?”

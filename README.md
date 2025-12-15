@@ -17,6 +17,9 @@ AWS Professional certified, building and running cloud systems that scale, heal,
 
 ### 🌐 Find me
 
+Portfolio  
+https://harish8.com
+
 LinkedIn  
 https://www.linkedin.com/in/harish-s-553840368/
 
@@ -28,8 +31,5 @@ https://discordapp.com/users/1341650829115002911
 
 Xambook  
 https://xambook.com
-
-Portfolio  
-https://harish8.com
 
 > Mostly experiments, fixes, and “why did this work?”

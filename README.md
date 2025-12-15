@@ -1,11 +1,7 @@
 # Hi, I'm Harish 👋
 
 Cloud / DevOps ☁️  
-GitHub says I:
-- Use multiple programming languages
-- Write more configs than app code
-- Trust automation more than sleep
-- Commit mostly when something breaks
+AWS Professional certified, building and running cloud systems that scale, heal, and stay boring in production.
 
 ---
 

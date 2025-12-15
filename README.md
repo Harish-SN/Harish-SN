@@ -24,6 +24,14 @@ GitHub says I:
 
 ---
 
+### 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=transparent&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
 ### 🌐 Find me
 
 LinkedIn  

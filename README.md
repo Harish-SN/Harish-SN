@@ -30,13 +30,7 @@ GitHub says I:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=tokyonight&hide_border=true)
-
----
-
-### 🐍 Contributions
-
-![Snake animation](https://github.com/Harish-SN/Harish-SN/blob/output/github-contribution-grid-snake-dark.svg)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=tokyonight)
 
 ---
 

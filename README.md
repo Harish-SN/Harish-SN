@@ -1,5 +1,5 @@
 Cloud / DevOps ☁️  
-AWS certified, building and running cloud systems that scale, heal, and stay boring in production.
+AWS certified, building and running cloud systems that scale, heal, and stay boring in production
 
 ---
 

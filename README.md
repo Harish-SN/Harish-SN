@@ -3,11 +3,23 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3ACE&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=7F3ACE&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" 
+    alt="Typing animation"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=7F3ACE&style=flat-square" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=7F3ACE&style=flat-square" 
+    alt="profile views"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=80&section=header&animation=fadeIn" 
+  />
 </p>
 
 ---
@@ -34,11 +46,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" height="160"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" 
+    height="165"
+    alt="GitHub streak"
+  />
 </p>
 
----
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=80&section=footer&animation=fadeIn" 
+  />
+</p>
 
 <p align="center">
-  <i>“Build systems that don’t wake you up at 3 AM.”</i>
+  <sub>✨ clean • minimal • always shipping ✨</sub>
 </p>

@@ -33,7 +33,7 @@
 
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=Harish-SN&label=VIEWS&color=34D399&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=VIEWS&color=34D399&style=flat-circle" 
   />
 </p>
 

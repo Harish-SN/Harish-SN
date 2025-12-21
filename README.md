@@ -30,11 +30,31 @@
 </p>
 
 ---
+
 <p align="left">
   <img 
-    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=39FF14&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE%20VIEWS&color=555555&style=flat" 
   />
 </p>
+
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE%20VIEWS&color=0A66C2&style=flat" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=VIEWS&color=999999&style=flat-square" 
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE%20VIEWS&color=6C757D&style=flat" 
+  />
+</p>
+
 ---
 
 ## 📊 GitHub Stats

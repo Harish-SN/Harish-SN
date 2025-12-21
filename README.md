@@ -1,12 +1,12 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39FF14&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" 
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=39FF14&center=true&vCenter=true&width=520&lines=I+build+cloud+systems+that+scale+and+heal+themselves.;Focused+on+AWS%2C+automation%2C+and+clean+architecture.;Shipping+real+systems%2C+not+just+diagrams."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=39FF14&center=true&vCenter=true&width=520&lines=I+design+and+operate+cloud+infrastructure+at+scale.;Focused+on+automation%2C+reliability%2C+and+clean+systems.;Shipping+real+infrastructure%2C+not+just+diagrams."
   />
 </p>
 

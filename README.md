@@ -12,8 +12,8 @@ AWS certified, building and running cloud systems that scale, heal, and stay bor
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=Harish-SN&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-SN&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=tokyonight" />
 </p>
 
 ---

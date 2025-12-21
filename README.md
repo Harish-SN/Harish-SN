@@ -23,6 +23,3 @@ https://discord.com/users/1341650829115002911
 
 Gumroad  
 https://flyingbunny8.gumroad.com
-
-
-> Mostly experiments, fixes, and “why did this work?”

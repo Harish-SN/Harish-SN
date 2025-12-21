@@ -31,16 +31,6 @@
 
 ---
 
-## 🚀 About
-
-- ☁️ Cloud & DevOps Engineer (AWS-focused)
-- 🏗️ Architecting secure, scalable production systems
-- 🧠 Curious about future tech (ML • Quantum • Blockchain)
-- 🐧 Linux enthusiast
-- 🔥 Builder mindset — shipping over theory
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

@@ -4,6 +4,12 @@
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1800&color=39FF14&center=true&vCenter=true&width=520&lines=I+build+cloud+systems+that+scale+and+heal+themselves.;Focused+on+AWS%2C+automation%2C+and+clean+architecture.;Shipping+real+systems%2C+not+just+diagrams."
+  />
+</p>
+
 ---
 
 ## 🌐 Find me

@@ -48,10 +48,6 @@
   <img src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&hide_border=true&theme=nord" height="150"/>
-</p>
-
 ---
 
 <p align="center">

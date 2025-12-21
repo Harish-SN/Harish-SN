@@ -1,71 +1,61 @@
-Cloud / DevOps ☁️  
-AWS certified, building and running cloud systems that scale, heal, and stay boring in production
-
----
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?logo=github-actions&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-Cloud-red?logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker) ![Linux](https://img.shields.io/badge/Linux-OS-black?logo=linux&logoColor=white) ![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow?logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-Runtime-green?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-Framework-black?logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-Frontend-blue?logo=react&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-Security-blue?logo=kali-linux&logoColor=white) ![Tails OS](https://img.shields.io/badge/Tails_OS-Privacy-purple?logo=debian&logoColor=white)
-
-<h1 align="center">⚡ Harish SN ⚡</h1>
-<h3 align="center">Cloud • DevOps • AWS Architect • Builder</h3>
+<h1 align="center">
+  Hi, I'm Harish ⚡
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harish-SN&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3ACE&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect+(Professional);Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=7F3ACE&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-- ☁️ Cloud & DevOps Engineer focused on **AWS**
-- 🏗️ Building scalable, secure, production-grade systems
-- 🧠 Strong interest in **future tech** (ML, Quantum, Blockchain)
+- ☁️ Cloud & DevOps Engineer (AWS-focused)
+- 🏗️ Architecting secure, scalable production systems
+- 🧠 Curious about future tech (ML • Quantum • Blockchain)
 - 🐧 Linux enthusiast
-- 🔥 Startup mindset — shipping > talking
+- 🔥 Builder mindset — shipping over theory
 
 ---
 
 ## 🏅 Certifications
 
-- 🥇 **AWS Solutions Architect – Professional**
-- 🥇 **AWS DevOps Engineer – Professional**
+- 🥇 AWS Solutions Architect – **Professional**
+- 🥇 AWS DevOps Engineer – **Professional**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack (Core)
 
-**Cloud**
-- AWS (VPC, EC2, IAM, S3, CloudFront, DynamoDB, RDS, EKS, ECS)
+**Cloud**  
+AWS · VPC · EC2 · IAM · S3 · CloudFront · DynamoDB · RDS  
 
-**DevOps**
-- Docker, Kubernetes
-- GitHub Actions, CI/CD
-- Terraform, CloudFormation
+**DevOps**  
+Docker · Kubernetes · GitHub Actions · Terraform · CloudFormation  
 
-**Backend / Frontend**
-- Node.js (Express)
-- Python
-- React
-
-**Security & Infra**
-- IAM, Secrets Manager, ACM
-- Monitoring & Logging (CloudWatch)
+**Code**  
+Node.js · Python · React  
 
 ---
 
-## 📊 GitHub Stats (Hybrid Theme)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=nord&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Harish-SN&theme=synthwave&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&hide_border=true&theme=nord" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=nord&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&hide_border=true&theme=nord" height="150"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-SN&theme=tokyo-night&hide_border=true"/>
@@ -73,50 +63,25 @@ AWS certified, building and running cloud systems that scale, heal, and stay bor
 
 ---
 
-## 🧠 GitHub Summary
+## 🌐 Find me
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-SN&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harish-SN&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-SN&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harish-SN&theme=tokyonight&utcOffset=5.5" height="160"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harish-SN&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<p align="left">
+  <a href="https://harish8.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
+  </a>
+  <a href="https://linkedin.com/in/harish-sn8">
+    <img src="https://img.shields.io/badge/LinkedIn-0B5ED7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1341650829115002911">
+    <img src="https://img.shields.io/badge/Discord-5B6DFF?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://flyingbunny8.gumroad.com">
+    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000"/>
+  </a>
 </p>
 
 ---
 
-## 🤝 Let’s Connect
-
-- 💼 Open to **Cloud / DevOps / Platform Engineering roles**
-- 🌍 Love discussing architecture, scale, and reliability
-
-> *“Build systems that work at 3 AM without you.”*
----
-
-### 🌐 Find me
-
-Portfolio  
-https://harish8.com
-
-LinkedIn  
-https://linkedin.com/in/harish-sn8
-
-Discord  
-https://discord.com/users/1341650829115002911
-
-Gumroad  
-https://flyingbunny8.gumroad.com
+<p align="center">
+  <i>“Build systems that don’t wake you up at 3 AM.”</i>
+</p>

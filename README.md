@@ -9,12 +9,6 @@
 ## 🌐 Find me
 
 <p align="left">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=39FF14&style=flat-square" 
-  />
-</p>
-
-<p align="left">
   <a href="https://harish8.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39FF14"/>
   </a>
@@ -27,6 +21,12 @@
   <a href="https://flyingbunny8.gumroad.com">
     <img src="https://img.shields.io/badge/Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=39FF14"/>
   </a>
+</p>
+
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Harish-SN&label=PROFILE+VIEWS&color=39FF14&style=flat-square" 
+  />
 </p>
 
 ---

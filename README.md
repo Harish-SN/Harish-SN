@@ -22,26 +22,6 @@
 
 ---
 
-## 🏅 Certifications
-
-- 🥇 AWS Solutions Architect – **Professional**
-- 🥇 AWS DevOps Engineer – **Professional**
-
----
-
-## 🛠️ Stack (Core)
-
-**Cloud**  
-AWS · VPC · EC2 · IAM · S3 · CloudFront · DynamoDB · RDS  
-
-**DevOps**  
-Docker · Kubernetes · GitHub Actions · Terraform · CloudFormation  
-
-**Code**  
-Node.js · Python · React  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">

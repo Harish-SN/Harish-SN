@@ -12,6 +12,25 @@
 
 ---
 
+## 🌐 Find me
+
+<p align="left">
+  <a href="https://harish8.com">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
+  </a>
+  <a href="https://linkedin.com/in/harish-sn8">
+    <img src="https://img.shields.io/badge/LinkedIn-0B5ED7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1341650829115002911">
+    <img src="https://img.shields.io/badge/Discord-5B6DFF?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://flyingbunny8.gumroad.com">
+    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000"/>
+  </a>
+</p>
+
+---
+
 ## 🚀 About
 
 - ☁️ Cloud & DevOps Engineer (AWS-focused)
@@ -31,33 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&hide_border=true&theme=nord" height="150"/>
-</p>
-
----
-
-## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-SN&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌐 Find me
-
-<p align="left">
-  <a href="https://harish8.com">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
-  </a>
-  <a href="https://linkedin.com/in/harish-sn8">
-    <img src="https://img.shields.io/badge/LinkedIn-0B5ED7?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users/1341650829115002911">
-    <img src="https://img.shields.io/badge/Discord-5B6DFF?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://flyingbunny8.gumroad.com">
-    <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=000"/>
-  </a>
 </p>
 
 ---

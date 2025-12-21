@@ -16,16 +16,16 @@
 
 <p align="left">
   <a href="https://harish8.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/harish-sn8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/1341650829115002911" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://flyingbunny8.gumroad.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=white"/>
   </a>
 </p>
 

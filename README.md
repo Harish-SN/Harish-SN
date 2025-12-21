@@ -11,10 +11,43 @@ AWS certified, building and running cloud systems that scale, heal, and stay bor
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=tokyonight)
 
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-SN&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=dracula)
+![Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=dracula)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=dracula)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harish-SN&theme=dracula)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=nightowl)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=nightowl)
+![Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=nightowl)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=nightowl)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harish-SN&theme=nightowl)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=radical)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harish-SN&theme=radical&utcOffset=5.5)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=nord)
+![Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=nord)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=nord)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact&theme=synthwave)
+![Streak](https://streak-stats.demolab.com?user=Harish-SN&theme=synthwave)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harish-SN&theme=synthwave-84)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-SN&layout=compact)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harish-SN&theme=default)
 
 ---
 

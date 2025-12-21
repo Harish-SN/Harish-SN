@@ -17,7 +17,7 @@ Portfolio
 https://harish8.com
 
 LinkedIn  
-https://linkedin.com/in/harish-s-553840368
+https://linkedin.com/in/harish-sn8
 
 Discord  
 https://discord.com/users/1341650829115002911

@@ -44,7 +44,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harish-SN&show_icons=true&hide_border=true&theme=nord" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" height="160"/>
 </p>
 

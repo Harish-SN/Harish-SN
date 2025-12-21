@@ -35,7 +35,6 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=highcontrast&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" 
-    height="160"
+    src="https://streak-stats.demolab.com?user=Harish-SN&hide_border=true&theme=synthwave" height="160"
   />
 </p>

@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3ACE&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect+(Professional);Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=7F3ACE&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Engineer;AWS+Architect;Building+Scalable+Systems;Linux+%7C+Automation+%7C+Startups" />
 </p>
 
 <p align="center">

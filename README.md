@@ -19,13 +19,11 @@ https://harish8.com
 LinkedIn  
 https://linkedin.com/in/harish-s-553840368
 
-Gumroad  
-https://flyingbunny8.gumroad.com
-
 Discord  
 https://discord.com/users/1341650829115002911
 
-Xambook  
-https://xambook.com
+Gumroad  
+https://flyingbunny8.gumroad.com
+
 
 > Mostly experiments, fixes, and “why did this work?”
